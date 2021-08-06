@@ -6,10 +6,10 @@ Abstract: Training generative adversarial networks (GAN) using too little data t
 
 ## Idea Behind
 
-This project was done as a research into how GAN's work. I decieded to mix it up by using Van Gogh's images as training data to produce fake Van Gogh's images. Note: the results shown below is from 2 days of training on Google Collab, With increase training time you might be able to obtain better results. My purpose for this repository has been served. 
+This project was done as a research into how GAN's work. I decieded to mix it up by using Van Gogh's images as training data to produce fake Van Gogh's images. Note: the results shown below is from 2 days of training on Google Collab, By increasing training time you might be able to obtain better results. My purpose for this repository has been served. 
 
 
-## Latent-Walk 
+## Latent-Walk (Click on image)
 
 [![Latent-Walk](https://github.com/Yega-Noragami/StyleGAN-2-ADA/blob/main/training/Vincent_Square/00002-tfr-mirror-auto1-bgc-resumecustom/fakes000624.jpg)](https://youtu.be/oT73xH-VXLE)
 
