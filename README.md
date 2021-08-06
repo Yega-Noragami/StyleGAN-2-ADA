@@ -10,3 +10,6 @@ This project was done as a research into how GAN's work. I decieded to mix it up
 
 
 ## Latent-Walk 
+
+[![Latent-Walk](https://github.com/Yega-Noragami/StyleGAN-2-ADA/blob/main/training/Vincent_Square/00002-tfr-mirror-auto1-bgc-resumecustom/fakes000624.jpg)](youtube.com/watch?v=oT73xH-VXLE)
+
